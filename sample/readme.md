@@ -10,17 +10,17 @@
   * [Contributions](#Contributions)
   * [Contact Me](#ContactUs)
   ## Description 
-  This Will Generate a Professional ReadMe for Your Project
+  This Will Generate A ReadMe File
   ## Installation
-  Always Install NPM First
+  Install NPM before using App
   ## Usage 
-  Use Node index after NPM installation
+  Run node index within the terminal
   ## Test 
-  Run Within Terminal
+  
   ## License
   ReadMe Generator is licensed under MIT
   ## Contributions 
-  Always Pull Request
+  Share Work Evenly
   Remember to ALWAYS PULL REQUEST
   ## ContactUs 
  Having Issues? Have Any Extra Questions? Contact Us:
