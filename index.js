@@ -92,7 +92,7 @@ const questions = () => {
             name: `license`,
             message: `*Enter License For This Project: `,
             type: `list`,
-            choices: [`ISC`, `MIT`, `GNU GPLv3`, `IPL 1.0`, `FDL 1.3`],
+            choices: [`ISC`, `MIT`, `PERL`, `GNU`, `IBM`],
             validate: licenseInput => {
                 if (licenseInput) {
                     return true;
@@ -104,7 +104,7 @@ const questions = () => {
         },
         //Contributing
         {
-            name: 'tests',
+            name: 'contribute',
             message: 'Enter Methods for Project Contribution(Optional): ',
             type: 'input'
         },
