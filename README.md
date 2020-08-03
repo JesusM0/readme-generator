@@ -19,7 +19,7 @@ In order for application to work, you must first install the pacakge. Use:
 With in the terminal for app to work properly
 
 ## Usage
-Use node index within the terminal to start questions for ReadMe generation. Here is a short video on how to use the application: 
+Use node index within the terminal to start questions for ReadMe generation. Here is a short ![video](/demo/ReadMe demo video.webm) on how to use the application: 
 
 ## Example of Generated ReadMe
 ![Example](/sample/readme.md)
